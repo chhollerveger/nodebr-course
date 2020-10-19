@@ -1,0 +1,12 @@
+{
+  "name": "multi-db",
+  "version": "1.0.0",
+  "description": "docker run \\   --name adminer \\   -p 8080:8080 \\   --link postgres:postgres \\   -d \\   adminer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
